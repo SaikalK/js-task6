@@ -140,3 +140,5 @@ cite.style.color = "white";
 cite.style.textDecoration = "none";
 cite.style.fontWeight = "400";
 cite.style.marginLeft = "8px";
+
+alert("Я оцениваю свою работу на 110 баллов")
